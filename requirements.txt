@@ -1,0 +1,5 @@
+# req
+spyne==2.14.0
+psycopg2==2.9.7
+lxml==4.9.2
+wsgicors==0.7.0
